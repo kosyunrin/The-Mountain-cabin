@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F39071EC-D98A-E033-759F-9E55387B6C68}</ProjectGuid>
+    <ProjectGuid>{2DD5FF9F-453E-0188-4336-38DE96E4A091}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -440,13 +440,13 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Tutorial Wizard MiniMap">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Assets/UGUIMiniMap/Content/Scripts/Internal/Editor/Plugins/Tutorial Wizard MiniMap.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Assets/UGUIMiniMap/Content/Scripts/Internal/Editor/Plugins/Tutorial Wizard MiniMap.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -803,83 +803,83 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/zxy20/Desktop/GameAwards2020-Wyt/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>F:/The Cabin/The-Mountain-cabin/MCBMGAME/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{909D8A93-D46B-B635-32FA-924CC89FDD12}</Project>
+      <Project>{468CC34F-FAF1-4DC5-5A96-C4D6299170E8}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{934E65FA-FB9B-D88A-C28F-70D2008CF21E}</Project>
+      <Project>{A2D1CE72-ABA7-5A61-A265-D213FC171D41}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{C00DEF61-AF3E-807D-A3B2-91F10D21853A}</Project>
+      <Project>{B755CE0D-D42B-908A-DE7D-F450C6402BC7}</Project>
       <Name>Assembly-CSharp-Editor-firstpass</Name>
     </ProjectReference>
   </ItemGroup>

@@ -6,24 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/GameMain/Scenes/GameEntry.unity
+    path: Assets/Sk Working/Sk Scene/Sk Terrains.unity
+    guid: 6b3d7c096929d6844b60e2cbaebd53d2
+  - enabled: 1
+    path: Assets/Sk Working/Sk Scene/Sk Test Scene.unity
+    guid: cfc4d34861dde194dbc2d10337746fb2
+  - enabled: 1
+    path: 
     guid: 2fb39849b2f09cc4296fca223a7808ba
   - enabled: 1
-    path: Assets/GameMain/Scenes/GameMenu.unity
+    path: 
     guid: 420fa19cd09e50844a3a6dd7a84cd637
   - enabled: 1
-    path: Assets/GameMain/Scenes/Level1.unity
+    path: 
     guid: 81792143f7fa00b4486f987eef1ef411
   - enabled: 1
-    path: Assets/GameMain/Scenes/Level2.unity
+    path: 
     guid: 37b1dd3c4988da44ebbc5657bdcaeade
   - enabled: 1
-    path: Assets/GameMain/Scenes/Level4.unity
+    path: 
     guid: 6d69c0000334910428109fe7094fb532
   - enabled: 1
-    path: Assets/GameMain/Scenes/Level3.unity
+    path: 
     guid: 7f2b3d9d9fc33264faeadf609134c6ac
   - enabled: 1
-    path: Assets/GameMain/Scenes/GameOver.unity
+    path: 
     guid: f8d2799ecbfefe042a23a31964b56efc
   m_configObjects: {}
