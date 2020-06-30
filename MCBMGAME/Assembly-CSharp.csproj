@@ -489,6 +489,13 @@
     <Compile Include="Assets\Procedural Worlds\Gaia\Scripts\Water System\Reflections\PWS_WaterSystem.cs" />
     <Compile Include="Assets\Procedural Worlds\Gaia\Scripts\Water System\Reflections\PW_WaterReflectionZone.cs" />
     <Compile Include="Assets\Procedural Worlds\Gaia\Scripts\Water System\Reflections\PlanarReflections.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\ExampleSceneFree.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\JoystickFree.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\MSButtonFree.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\MSFPSControllerFree.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\MSOpenURL.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\MSSceneControllerFree.cs" />
+    <Compile Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\MSVehicleControllerFree.cs" />
     <Compile Include="Assets\ResouceTools\Pickup\Scripts\RotateCamera.cs" />
     <Compile Include="Assets\ResouceTools\Rusty Flashlight\Scripts\FlashlightToggle.cs" />
     <Compile Include="Assets\UGUIMiniMap\Content\Scripts\Core\Misc\bl_MapPointer.cs" />
@@ -586,11 +593,13 @@
     <None Include="Assets\Procedural Worlds\Gaia\Asset Samples\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader" />
     <None Include="Assets\Procedural Worlds\Gaia\Shaders\Unity\Terrain Tools\license.txt" />
+    <None Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Update Notes.txt" />
     <None Include="Assets\Procedural Worlds\Gaia\Shaders\Unity\Terrain Tools\NoiseLib\Fbm\Voronoi.hlsl" />
     <None Include="Assets\Procedural Worlds\Gaia\Shaders\Unity\Standard Shaders\BaseOperation.shader" />
     <None Include="Assets\Procedural Worlds\Gaia\Gaia_ReadMe.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\Procedural Worlds\Gaia\Shaders\PW General\PW_ChannelCombine.shader" />
+    <None Include="Assets\ResouceTools\MSVehicleSystem(FreeVersion)\Scripts\Shaders\SkidMarks.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\Procedural Worlds\Gaia\Scripts\ExtensionSystem\GaiaXtnFooter.txt" />
