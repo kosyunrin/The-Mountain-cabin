@@ -514,6 +514,11 @@
     <Compile Include="Assets\UGUIMiniMap\Content\Scripts\Internal\Struct\bl_MMItemInfo.cs" />
     <Compile Include="Assets\UGUIMiniMap\Content\Scripts\Util\bl_MiniMapScreenShot.cs" />
     <Compile Include="Assets\UGUIMiniMap\Content\Scripts\Util\bl_MiniMapUtils.cs" />
+    <Compile Include="Assets\skFreeAction.cs" />
+    <Compile Include="Assets\skFreeEnvents.cs" />
+    <Compile Include="Assets\skPushBox.cs" />
+    <Compile Include="Assets\skStateMachine.cs" />
+    <Compile Include="Assets\skTriggerAction.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\Procedural Worlds\Gaia\Asset Samples\NatureManufacture\_Readme.txt" />
